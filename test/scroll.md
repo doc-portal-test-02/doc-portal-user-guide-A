@@ -58,21 +58,21 @@ Praesent ac eros at metus pulvinar sagittis eget nec mauris. Vestibulum finibus,
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed gravida libero quis sapien commodo sollicit
 
 ## github-api-res.png
-![github-api-res.png](../assets/github/github-api-res.png)
+![github-api-res.png](../assets/github-api-res.png)
 
 Praesent ac eros at metus pulvinar sagittis eget nec mauris. Vestibulum finibus, nunc sit amet semper elementum, orci ex vehicula metus, sed eleifend nulla nunc id magna.
 
 ## github_org_repo_access.png
-![github_org_repo_access.png](../assets/github/github_org_repo_access.png)
+![github_org_repo_access.png](../assets/github_org_repo_access.png)
 
 Donec vel nunc eget ante blandit aliquet. Aliquam vel leo blandit, consequat nisi eget, congue turpis. Sed suscipit, quam nec iaculis fringilla, justo ipsum volutpat dolor, at sodales neque nulla sed eros.
 
 ## redoc-preview.png
-![redoc-preview.png](../assets/github/redoc-preview.png)
+![redoc-preview.png](../assets/redoc-preview.png)
 
 Sed in faucibus ipsum, eu tincidunt justo. Aenean interdum semper justo, vel pulvinar sapien suscipit vitae. Donec dictum vehicula leo, nec volutpat nisi accumsan ac.
 
 ## repo-to-doc-1.png
-![repo-to-doc-1.png](../assets/github/repo-to-doc-1.png)
+![repo-to-doc-1.png](../assets/repo-to-doc-1.png)
 
 Duis ac nisi augue. Nulla lacinia, urna et bibendum rhoncus, odio libero sollicitudin risus, sit amet accumsan ante mauris eu nibh.
