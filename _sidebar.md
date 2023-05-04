@@ -8,6 +8,8 @@
 * Collaboration
   * [Teams and permissions](collaboration/teams-and-permissions)
   * [Collaborative publishing](collaboration/collaborative-publishing)
+* Test
+  * [Scroll Test](test/scroll)
 * [Limitations](limitations)
 * [Issues](issues)
 * [Showcase](showcase)
