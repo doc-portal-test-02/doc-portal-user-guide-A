@@ -347,7 +347,7 @@ Right aligned columns
 | engine |    engine to be used for processing templates. Handlebars is the default. |
 |    ext |                                      extension to be used for dest files. |
 
-## Links
+## Link and Links
 
 ``````markdown
 [link text](http://dev.nodeca.com)
@@ -363,7 +363,7 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
-## Images
+## Image and Images
 
 ``````markdown
 
