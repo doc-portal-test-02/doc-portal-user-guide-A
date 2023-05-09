@@ -10,6 +10,7 @@
   * [Collaborative publishing](collaboration/collaborative-publishing)
 * Test
   * [Scroll Test](test/scroll)
+  * [TOC Test](test/table-of-content)
 * [Limitations](limitations)
 * [Issues](issues)
 * [Showcase](showcase)
