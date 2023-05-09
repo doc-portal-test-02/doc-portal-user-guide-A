@@ -1,5 +1,5 @@
-## Duplicate  1
-## Duplicate  1
+## Duplicate  Headers
+## Duplicate  Headers
 
 ## Title  1
 ## Title  2
